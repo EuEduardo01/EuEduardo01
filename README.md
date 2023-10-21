@@ -6,8 +6,15 @@
 ##### Full Stack Developer Student by Infinity School - Visual Art Creative Center
 
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eduardo-barbosa-da-cruz-465b6623b/)
-
+<div>
+  <a href="https://www.linkedin.com/in/eduardo-barbosa-da-cruz-465b6623b/" target="_blank">
+   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> 
+  </a>  
+  <a href="mailto:eduardo.techbdc@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</div>
+   
 ![Eduardo GitHub stats](https://github-readme-stats.vercel.app/api?username=EuEduardo01&show_icons=true&theme=radical)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EuEduardo01&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
