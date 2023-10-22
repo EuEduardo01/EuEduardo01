@@ -4,16 +4,6 @@
 ### Education 🎓:
 
 ##### Full Stack Developer Student by Infinity School - Visual Art Creative Center
-
-
-<div>
-  <a href="https://www.linkedin.com/in/eduardo-barbosa-da-cruz-465b6623b/" target="_blank">
-   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> 
-  </a>  
-  <a href="mailto:eduardo.techbdc@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</div>
    
 ![Eduardo GitHub stats](https://github-readme-stats.vercel.app/api?username=EuEduardo01&show_icons=true&theme=radical)
 
@@ -31,3 +21,12 @@
    <img align="center" alt="Git" height="30" width="40" src="https://devicons.railway.app/i/git.svg">
    <img align="center" alt="SQLServer" height="30" width="40" src="https://i.pinimg.com/originals/00/47/41/004741d0cd8e7face0e44392387ac18c.png">
  </div>
+
+ <div><br><br>
+  <a href="https://www.linkedin.com/in/eduardo-barbosa-da-cruz-465b6623b/" target="_blank">
+   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> 
+  </a>  
+  <a href="mailto:eduardo.techbdc@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</div>
