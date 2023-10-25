@@ -19,7 +19,7 @@
     <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
    <img align="center" alt="SASS" height="30" width="40" src="https://devicons.railway.app/i/sass.svg">
    <img align="center" alt="Git" height="30" width="40" src="https://devicons.railway.app/i/git.svg">
-   <img align="center" alt="SQLServer" height="30" width="40" src="https://i.pinimg.com/originals/00/47/41/004741d0cd8e7face0e44392387ac18c.png">
+   <img align="center" alt="SSMS" height="30" width="55" src="https://i.pinimg.com/originals/32/a0/3a/32a03aee0c76419ec5bde950a62883bc.png">
  </div>
 
  <div><br><br>
