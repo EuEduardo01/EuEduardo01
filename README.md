@@ -20,6 +20,8 @@
    <img align="center" alt="SASS" height="30" width="40" src="https://devicons.railway.app/i/sass.svg">
    <img align="center" alt="Git" height="30" width="40" src="https://devicons.railway.app/i/git.svg">
    <img align="center" alt="SSMS" height="30" width="55" src="https://i.pinimg.com/originals/32/a0/3a/32a03aee0c76419ec5bde950a62883bc.png">
+   <img align="center" alt="SSMS" height="30" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+   <img align="center" alt="SSMS" height="30" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
  </div>
 
  <div><br><br>
